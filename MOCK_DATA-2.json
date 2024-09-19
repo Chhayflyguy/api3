@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Virginia",
+        "last_name": "Bateup",
+        "email": "vbateup0@umn.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Bard",
+        "last_name": "Normand",
+        "email": "bnormand1@tiny.cc",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Sydelle",
+        "last_name": "Kilalea",
+        "email": "skilalea2@icq.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Curt",
+        "last_name": "Bilbrey",
+        "email": "cbilbrey3@virginia.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Miguela",
+        "last_name": "McDonell",
+        "email": "mmcdonell4@so-net.ne.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Town",
+        "last_name": "Ahlin",
+        "email": "tahlin5@tmall.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Teriann",
+        "last_name": "Adamiec",
+        "email": "tadamiec6@google.co.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Jess",
+        "last_name": "Candelin",
+        "email": "jcandelin7@mail.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Jess",
+        "last_name": "Clarricoates",
+        "email": "jclarricoates8@qq.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Garner",
+        "last_name": "Goford",
+        "email": "ggoford9@twitter.com",
+        "gender": "Male"
+    }
+]
